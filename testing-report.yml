@@ -56,7 +56,7 @@
   status: pass
 
 - summary: |
-    Проверка кнопки "give up" в игре
+    Проверка кнопки "give up" в активной игре
   status: pass
 
 - summary: |
