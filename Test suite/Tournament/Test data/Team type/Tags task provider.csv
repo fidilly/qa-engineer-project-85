@@ -1,0 +1,26 @@
+,Name,Type,Access type,Game strategy,Task provider,Level,Tags,Players limit,Default language,Match timeout sec,Break duration sec,Team 1 name,Team 2 name,Round to win
+1,any,team,token,round,tags,elementary,rest,2,java,177,357,any,any,1
+2,any,team,token,game,tags,elementary,strings,4,csharp,15,42,any,any,2
+3,any,team,token,game,tags,hard,math,32,csharp,177,357,any,any,4
+4,any,team,token,game,tags,easy,strings,16,clojure,1000,0,any,any,5
+5,any,team,public,game,tags,easy,strings,32,js,177,0,any,any,1
+6,any,team,token,game,tags,medium,collections,8,csharp,1000,357,any,any,1
+7,any,team,token,game,tags,hard,hash-maps,64,php,15,357,any,any,3
+8,any,team,token,game,tags,elementary,rest,16,cpp,15,0,any,any,4
+9,any,team,token,game,tags,easy,hash-maps,2,python,177,42,any,any,4
+10,any,team,token,game,tags,elementary,collections,64,js,1000,0,any,any,5
+11,any,team,public,round,tags,medium,math,16,cpp,1000,0,any,any,2
+12,any,team,public,round,tags,medium,math,8,js,15,42,any,any,3
+13,any,team,public,round,tags,easy,collections,32,cpp,177,0,any,any,3
+14,any,team,public,game,tags,medium,hash-maps,16,csharp,1000,0,any,any,5
+15,any,team,token,round,tags,hard,rest,4,python,1000,357,any,any,3
+16,any,team,token,game,tags,medium,strings,2,php,1000,357,any,any,4
+17,any,team,public,round,tags,medium,rest,8,php,15,0,any,any,5
+18,any,team,public,game,tags,easy,rest,8,clojure,15,0,any,any,2
+19,any,team,token,round,tags,medium,collections,16,python,15,42,any,any,4
+20,any,team,token,game,tags,easy,math,2,js,15,0,any,any,5
+21,any,team,token,game,tags,hard,collections,2,js,177,42,any,any,2
+22,any,team,public,game,tags,easy,strings,16,csharp,177,357,any,any,3
+23,any,team,token,round,tags,hard,hash-maps,32,csharp,1000,357,any,any,1
+24,any,team,token,round,tags,medium,hash-maps,64,python,15,357,any,any,2
+25,any,team,public,round,tags,hard,math,2,php,177,42,any,any,1
