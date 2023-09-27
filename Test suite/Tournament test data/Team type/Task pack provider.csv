@@ -1,0 +1,18 @@
+,Name,Type,Access type,Game strategy,Task provider,Task pack name,Elementary,Easy,Medium,Hard,Players limit,Default language,Match timeout sec,Break duration sec,Team 1 name,Team 2 name,Round to win
+1,My fancy tournament,team,public,game,task_pack,NA,150,250,350,450,64,js,177,42,Backend,Frontend,3
+2,any,team,token,game,task_pack,any,150,250,1000,1000,32,python,15,42,any,any,5
+3,any,team,public,round,task_pack,any,1,1,350,1,4,js,177,357,any,any,5
+4,any,team,token,round,task_pack,any,1000,1000,1,1000,8,js,177,42,any,any,4
+5,any,team,public,game,task_pack,any,1,250,350,450,4,java,1000,42,any,any,4
+6,any,team,public,game,task_pack,any,1000,1,1000,450,64,python,15,0,any,any,1
+7,any,team,public,round,task_pack,any,150,250,350,1,32,csharp,1000,0,any,any,3
+8,any,team,public,game,task_pack,any,1000,1,1,1000,32,clojure,177,0,any,any,3
+9,any,team,token,round,task_pack,any,1000,1000,1,450,4,cpp,15,0,any,any,5
+10,any,team,public,game,task_pack,any,1,250,1,1,64,cpp,15,42,any,any,1
+11,any,team,public,round,task_pack,any,1000,1,1,1000,64,php,177,0,any,any,2
+12,any,team,token,game,task_pack,any,150,1,1000,1,16,cpp,15,42,any,any,4
+13,any,team,public,game,task_pack,any,150,1000,1000,1000,64,js,1000,0,any,any,1
+14,any,team,token,round,task_pack,any,1,1000,1000,450,32,java,1000,0,any,any,3
+15,any,team,public,round,task_pack,any,1,1,350,1000,4,clojure,177,0,any,any,1
+16,any,team,token,game,task_pack,any,1,1000,1000,450,2,php,1000,42,any,any,2
+17,any,team,public,round,task_pack,any,150,250,350,1,2,php,177,357,any,any,2
