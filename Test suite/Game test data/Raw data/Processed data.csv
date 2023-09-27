@@ -1,0 +1,26 @@
+,Game type,Level,Time control,Task,Tags
+1,With other users,hard,8,any,math
+2,With a bot,elementary,60,any,strings
+3,With a friend,elementary,3,any,math
+4,With a friend,easy,60,any,collections
+5,With a bot,hard,3,random task,NA
+6,With a bot,medium,8,any,collections
+7,With other users,easy,8,any,strings
+8,With other users,elementary,3,any,collections
+9,With other users,medium,60,any,hash-maps
+10,With a bot,easy,3,any,hash-maps
+11,With a friend,hard,3,any,strings
+12,With a bot,easy,60,any,math
+13,With a bot,hard,60,any,collections
+14,With a friend,medium,3,any,math
+15,With a friend,easy,8,random task,NA
+16,With a friend,hard,8,any,hash-maps
+17,With a friend,medium,8,any,rest
+18,With other users,elementary,8,any,hash-maps
+19,With other users,medium,60,random task,NA
+20,With other users,elementary,8,any,NA
+21,With other users,hard,60,any,rest
+22,With a bot,easy,3,any,rest
+23,With a bot,medium,3,any,strings
+24,With a friend,elementary,60,random task,NA
+25,With other users,elementary,60,any,rest

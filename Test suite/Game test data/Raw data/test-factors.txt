@@ -1,0 +1,13 @@
+#############################################################
+# Paste test factors here.
+# Check the documents for more details.
+# https://github.com/Microsoft/pict/blob/master/doc/pict.md
+#############################################################
+
+Game type: With other users, With a friend, With a bot
+Level: elementary, easy, medium, hard
+Time control: 3, 60, 8
+Task: any, random task
+Tags: strings, math, hash-maps, collections, rest, NA
+
+IF NOT [Tags] = "NA" then [Task] = "any";
