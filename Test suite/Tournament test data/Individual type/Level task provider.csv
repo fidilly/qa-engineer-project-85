@@ -1,0 +1,3 @@
+,Name,Type,Access type,Game strategy,Task provider,Level,Players limit,Default language,Match timeout sec,Break duration sec
+1,My fancy tournament,individual,public,game,level,elementary,63,js,177,42
+2,any,individual,public,round,level,easy,4,js,15,0

@@ -1,0 +1,9 @@
+,Name,Type,Access type,Game strategy,Task provider,Level,Tags,Players limit,Default language,Match timeout sec,Break duration sec
+1,My fancy tournament,individual,public,game,tags,elementary,"strings,math",64,js,177,42
+2,any,individual,public,round,tags,medium,hash-maps,32,java,1000,0
+3,any,individual,token,round,tags,hard,strings,8,cpp,15,42
+4,any,individual,public,game,tags,easy,collections,4,php,177,0
+5,any,individual,public,round,tags,easy,rest,64,csharp,1000,42
+6,any,individual,public,game,tags,medium,rest,2,python,177,0
+7,any,individual,public,game,tags,elementary,math,4,clojure,177,0
+8,any,individual,public,game,tags,medium,hash-maps,8,js,1000,357
