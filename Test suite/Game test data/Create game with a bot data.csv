@@ -1,0 +1,10 @@
+,Game type,Level,Time control,Task,Tags
+1,With a bot,elementary,8,random task,NA
+2,With a bot,elementary,60,any,strings
+3,With a bot,hard,3,random task,NA
+4,With a bot,medium,8,any,collections
+5,With a bot,easy,3,any,hash-maps
+6,With a bot,easy,60,any,math
+7,With a bot,hard,60,any,collections
+8,With a bot,easy,3,any,rest
+9,With a bot,medium,3,any,strings
