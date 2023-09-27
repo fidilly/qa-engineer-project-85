@@ -1,7 +1,0 @@
-,Name,Type,Access type,Game strategy,Task provider,Task pack name,Elementary,Easy,Medium,Hard,Players limit,Default language,Match timeout sec,Break duration sec
-1,any,individual,public,round,task_pack,any,150,250,1000,450,16,clojure,177,357
-2,any,individual,public,game,task_pack,any,1000,1000,1,1,16,java,15,357
-3,any,individual,public,round,task_pack,any,1,1000,350,1000,16,python,1000,0
-4,any,individual,public,game,task_pack,any,150,1000,1000,1000,4,php,1000,357
-5,any,individual,token,round,task_pack,any,1,250,350,450,8,js,177,0
-6,any,individual,token,round,task_pack,any,1000,1,350,450,8,php,177,42
