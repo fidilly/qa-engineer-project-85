@@ -1,0 +1,5 @@
+,Name,Type,Access type,Game strategy,Task provider,Level,Players limit,Default language,Match timeout sec,Break duration sec,Rounds limit
+1,My fancy tournament,stairway,public,game,level,elementary,64,js,177,42,3
+2,any,stairway,public,round,level,elementary,8,python,1000,357,5
+3,any,stairway,public,round,level,easy,4,java,177,357,3
+4,any,stairway,public,round,level,easy,4,clojure,177,42,7

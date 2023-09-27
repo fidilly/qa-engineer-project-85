@@ -1,0 +1,14 @@
+,Name,Type,Access type,Game strategy,Task provider,Task pack name,Elementary,Easy,Medium,Hard,Players limit,Default language,Match timeout sec,Break duration sec,Rounds limit
+1,My fancy tournament,stairway,public,game,task_pack,NA,150,250,350,450,64,js,177,42,3
+2,any,stairway,token,game,task_pack,any,1000,1000,1,450,2,csharp,1000,0,7
+3,any,stairway,token,game,task_pack,any,1,1,350,1,64,php,15,0,3
+4,any,stairway,token,game,task_pack,any,150,1,1000,1,8,clojure,1000,42,5
+5,any,stairway,public,round,task_pack,any,1000,250,350,1000,2,cpp,177,0,5
+6,any,stairway,public,round,task_pack,any,150,1000,1,450,32,python,1000,0,3
+7,any,stairway,public,game,task_pack,any,1,1000,1000,1000,2,clojure,177,0,3
+8,any,stairway,public,round,task_pack,any,1,250,1,1000,8,csharp,15,42,3
+9,any,stairway,public,round,task_pack,any,150,1,1,450,2,java,1000,42,5
+10,any,stairway,token,round,task_pack,any,1000,250,1,1,2,python,15,42,3
+11,any,stairway,token,game,task_pack,any,150,250,350,1,2,php,1000,0,7
+12,any,stairway,public,game,task_pack,any,1,1,1000,1000,4,csharp,1000,0,7
+13,any,stairway,token,game,task_pack,any,1,1000,1,1000,4,java,177,42,5

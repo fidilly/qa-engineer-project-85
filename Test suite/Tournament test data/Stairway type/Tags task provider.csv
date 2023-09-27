@@ -1,0 +1,19 @@
+,Name,Type,Access type,Game strategy,Task provider,Level,Tags,Players limit,Default language,Match timeout sec,Break duration sec,Rounds limit
+1,My fancy tournament,stairway,public,game,tags,elementary,"strings,math",64,js,177,42,3
+2,any,stairway,public,game,tags,hard,rest,16,js,15,42,3
+3,any,stairway,public,game,tags,medium,strings,64,java,15,0,7
+4,any,stairway,public,round,tags,elementary,rest,32,php,15,357,7
+5,any,stairway,token,round,tags,hard,collections,2,clojure,15,42,5
+6,any,stairway,public,game,tags,elementary,hash-maps,4,cpp,15,0,3
+7,any,stairway,token,round,tags,hard,math,2,php,15,0,7
+8,any,stairway,public,game,tags,medium,collections,8,java,177,42,3
+9,any,stairway,public,game,tags,easy,hash-maps,64,clojure,1000,42,5
+10,any,stairway,public,game,tags,medium,rest,4,js,177,0,5
+11,any,stairway,token,round,tags,hard,collections,8,js,15,357,7
+12,any,stairway,token,game,tags,hard,strings,16,python,15,357,5
+13,any,stairway,public,round,tags,hard,math,16,python,15,357,7
+14,any,stairway,public,round,tags,hard,hash-maps,8,cpp,15,42,7
+15,any,stairway,token,round,tags,hard,math,32,csharp,1000,0,5
+16,any,stairway,token,round,tags,easy,math,64,java,1000,0,3
+17,any,stairway,public,round,tags,medium,strings,64,python,1000,42,3
+18,any,stairway,token,round,tags,easy,collections,2,php,15,0,5
